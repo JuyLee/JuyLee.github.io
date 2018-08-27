@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Java基础
-subtitle:   2018-03-26-Java基础-List和Set的区别
+title:      博客测试 Java基础
+subtitle:   测试 2018-03-26-Java基础-List和Set的区别
 date:       2018-03-26
 author:     李俊阳
 catalog: true
