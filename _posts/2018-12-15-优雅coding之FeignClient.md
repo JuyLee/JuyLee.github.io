@@ -47,7 +47,9 @@ public interface DemoRpc {
 }
 
 ```
-* sprringboot 应用配置
+
+* springboot 应用配置
+
 ```java
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
