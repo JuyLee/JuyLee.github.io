@@ -69,8 +69,8 @@ public class DemoApp {
 * 使用时，直接@AutoWired注解 注入DemoRpc 即可
 
 ##### 三、总结
-FeignClient还是有很多坑的，特别是与springBoot版本问题，所出现的大坑，使用过程中，找不到原因，建议把feignClient版本降低一点，
-这里仅仅是作为一个http请求的替代品进行简单使用，feignClient是支持很对定制的，使用文档建议看官方文档。
+FeignClient还是有很多坑的，特别是因为springBoot版本问题导致应用启动异常，使用过程中，找不到原因，建议把feignClient版本降低一点，
+这里仅仅是作为一个http请求的替代品进行简单使用，feignClient是支持很多定制的，使用文档建议看官方文档。
     
 
 
